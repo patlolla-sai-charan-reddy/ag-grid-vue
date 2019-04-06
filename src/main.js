@@ -7,7 +7,7 @@ import GridApp from "./GridApp.vue";
 
 import { AgGridVue } from "ag-grid-vue";
 import "ag-grid-community/dist/styles/ag-grid.css";
-import "ag-grid-community/dist/styles/ag-theme-balham.css";
+import "ag-grid-community/dist/styles/ag-theme-fresh.css";
 
 import "ag-grid-enterprise";
 import { LicenseManager } from "ag-grid-enterprise";

@@ -11,7 +11,6 @@
     ></ag-grid-vue>
   </div>
 </template>
-<style></style>
 
 <script type="text/javascript">
 import { AgGridVue } from "ag-grid-vue";
